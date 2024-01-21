@@ -1,0 +1,8 @@
+# Data processing libraries
+numpy==1.21.6
+
+# Visualization
+matplotlib==3.1.1
+
+# Integration
+scipy==1.3.2
