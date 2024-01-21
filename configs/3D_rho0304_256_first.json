@@ -1,0 +1,19 @@
+
+{
+
+"base_dir_path" : "./",
+"base_filename" : "first",
+
+"num_directories" : 1,
+"num_particles" : 256,
+"num_bins" : 181,
+"D" : 3,
+"rho" : 304,
+
+"data_file" : "data/{D}D_gay_berne/rho_0{rho}/N{num_particles}/total_{base_filename}.npy",
+"data_path" : "data/{D}D_gay_berne/rho_0{rho}/N{num_particles}/",
+
+"results_file" : "results/{D}D_gay_berne/rho_0{rho}/N{num_particles}/mean_{base_filename}.txt",
+"results_path" : "results/{D}D_gay_berne/rho_0{rho}/N{num_particles}/"
+
+}
