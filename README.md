@@ -1,5 +1,5 @@
 # largedeviations-liquidcrystals
-This repo can be used to reproduce the graphs shown in "**_Exceptionally Large Fluctuations in Orientational Order: The Lessons of Large-Deviation Theory for Liquid Crystalline Systems_**"
+This repo can be used to reproduce the graphs shown in [Exceptionally Large Fluctuations in Orientational Order: The Lessons of Large-Deviation Theory for Liquid Crystalline Systems](https://pubs.aip.org/aip/jcp/article/162/2/024501/3329531/Exceptionally-large-fluctuations-in-orientational)
 
 It includes two things:
 
